@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d22cdb2fa7aafe223268403969a4053f8342cebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\AppData\Local\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_0e182c06fcc9e97f337ba92c2968cbf4c6535c4c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Myapp\CallTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\Myapp\CallTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bdb9c0f1ffd238a90cb66e8b73c745aee0d9e8f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\1d5bd3518c7a2dd2803447a8fe71215b0dd07885\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_7a7bee55ea50cd555ae179128ede47b7398eb0f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\9f1a9e48c1c60aa3f5ca64523fae861c766e6176\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_75dcfbce34b5309d805d01e0e242f6b05f867f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\3d79f3549c37805cb8fc077776e0258147923c83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_3dd1fb1582d1e7615f1f370bdd102d58fa0de1c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\73b5c0c3042ae9af2597b897d6982394feca6bca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_3f7c3d40f637d5ecbeca0d5c8359e73c853fcd63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\62f23b5ff842649ce343d04d3eca907b40fa945a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_aabd63a487859b7baf8859cf5149cfac3b4c281f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\03050f3612d681fbda081c549cf0b6a0b4c52b5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_a65a0a2f79c2c7cdab76addaa5a084519d56bf33.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Myapp\CallTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f437cfd4ffbaa9599452c1a874988b56c6ad73d5">
+        <dex dex="D:\Android\Myapp\CallTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_12b969079e46ae29b31035ece987201fe3c69838\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\517bf013ba644b4452601c993d85ab4b1bb220a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_0b753345a7660c4ee54b99f96f847e75b610a822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\0760080c00f24c53fd5c4ede1e1486bd79e18bb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_5db1ca9998277adcc91c083f75e3836fe5319d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\900e81fe12f9c4cbe4eb9b373a3b4f6f98f23234\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_cb4fc0df33054c9d3bff3bab98771e146b407b64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\d05b056fd92501796694da81f2b4275b7c77b56a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_041296ba5b20ea23a852fe7b20defa8cb370b199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\cfed7902551f7cf3c0e9452da464a4b814befaaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_fb486d87565c37e03fa3299ec37935d59788c9b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\66df0ffb5d8cdc113f7b7c6922ca3f28901d20de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_4ded914dde1f86c7fe6a73f79b747482c27818ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\dc8b33d0ad038e7dc4850a6b616cf85aef871445\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_9c2047f070cb1210fb06fd3122cd57d689ffce47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\4a4317b13061c2ea551cce05be48048dc4a44d56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_d58a61d11acb68e1c5fd35dd500acca736a6d1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rishab\.android\build-cache\2c7b6dca148574fb1a8356a0cde12fab26fbf320\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Rishab\Desktop\CallTracker\app\build\intermediates\pre-dexed\debug\classes_15a39d93bc4d9c6b5625975e75edf3b8c511bdd8.jar" />
+    </item>
+
+</items>

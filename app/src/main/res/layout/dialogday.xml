@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+>
+    <Button
+
+        style="@style/Main_Home_Image_Style"
+        android:id="@+id/sun"
+        android:text="S"/>
+    <Button
+        style="@style/Main_Home_Image_Style"
+        android:id="@+id/mon"
+        android:text="M"/>
+    <Button
+        style="@style/Main_Home_Image_Style"
+    android:id="@+id/tue"
+    android:text="T"/>
+
+    <Button
+        style="@style/Main_Home_Image_Style"
+        android:id="@+id/wed"
+        android:text="W"/>
+
+    <Button
+        style="@style/Main_Home_Image_Style"
+        android:id="@+id/thu"
+        android:text="T"/>
+    <Button
+        style="@style/Main_Home_Image_Style"
+        android:id="@+id/fri"
+        android:text="F"/>
+    <Button
+        style="@style/Main_Home_Image_Style"
+        android:id="@+id/sat"
+        android:text="S"/>
+
+</LinearLayout>

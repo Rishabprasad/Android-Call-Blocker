@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/m2"
+        android:icon="@drawable/ic_share"
+        android:title="Add Post"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/m1"
+        android:icon="@drawable/ic_more_vert_white"
+        android:title="Add Post"
+        app:showAsAction="always">
+
+        <item
+            android:id="@+id/active"
+            android:title="Active Group"
+
+            />
+        <item
+            android:id="@+id/inactive"
+            android:title="Inactive Group" />
+
+        <item
+            android:id="@+id/allgroup"
+            android:title="All Group" />
+
+        <item
+            android:id="@+id/ReplayIntro"
+            android:title="Replay Intro" />
+
+        <item
+            android:id="@+id/setting"
+            android:title="Settings"
+            />
+
+    </item>
+
+
+</menu>

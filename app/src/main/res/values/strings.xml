@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CallTracker</string>
+    <string name="descr_overflow_button" />
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Create Group</string>
+    <string name="slide_1_desc">creation of multiple Group click on the add botton at bottom right. eg: Family, Friends,etc!</string>
+
+    <string name="slide_2_title">Add Contact</string>
+    <string name="slide_2_desc">Explore to add contacts to each group to block call with instant auto send message! </string>
+
+    <string name="slide_3_title">Add Block Schedule</string>
+    <string name="slide_3_desc">Select a day for call blocking from each group!</string>
+
+    <string name="slide_4_title">Settings</string>
+    <string name="slide_4_desc">Additional features like unknown call block, changing themes, instant sms to block user!</string>
+
+    <string name="play_again">Play Again</string>
+</resources>
